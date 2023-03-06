@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="bg-green-300 m-5 p-2">
-      <div className="bg-red-300">this is an inner div</div>
+    <div>
+      <h1 className="text-4xl font-semibold text-center text-green-500 opacity-30 italic normal-case">This is heading</h1>
     </div>
   )
 }

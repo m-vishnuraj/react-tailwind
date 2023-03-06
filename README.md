@@ -11,3 +11,4 @@
 - Adding Gap Between & Justifying Items ( gap-x-3, gap-y-5, justify-items-center)
 - Justify Individual Items (justify-self-center, justify-self-end)
 - Adding Padding & Margin To Elements (p-4, m-4, p-4 m-4, p-4 m-4 p-4 m-4)
+- Typography: Styling Text Using Tailwind Utility Classes (text-4xl font-semibold text-center text-green-500 opacity-30 italic normal-case)
