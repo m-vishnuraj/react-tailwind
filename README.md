@@ -6,3 +6,4 @@
 - wrapping flex (flex-wrap, flex-wrap-reverse)
 - flex grew and shrink (flex-1, flex-initial, flex-auto, flex-none, flex-grow, flex-grow-0, flex-shrink, order)
 - grid layout (grid, grid-cols-3, gap-4, col-span-2)
+- row layout (grid-rows-2, grid-flow-col, row-span-2)
