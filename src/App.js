@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1 className="text-4xl font-semibold text-center text-green-500 opacity-30 italic normal-case">This is heading</h1>
+      <button className="bg-blue-500 m-10 p-2 rounded hover:bg-gray-600">Click here</button>
     </div>
   )
 }

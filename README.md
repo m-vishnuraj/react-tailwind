@@ -12,3 +12,4 @@
 - Justify Individual Items (justify-self-center, justify-self-end)
 - Adding Padding & Margin To Elements (p-4, m-4, p-4 m-4, p-4 m-4 p-4 m-4)
 - Typography: Styling Text Using Tailwind Utility Classes (text-4xl font-semibold text-center text-green-500 opacity-30 italic normal-case)
+- Adding Border Radius To Elements
