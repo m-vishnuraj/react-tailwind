@@ -16,3 +16,5 @@
 - Adding border styling (border-red-500 opacity-50 border-dashed)
 - Adding box shadow (shadow-lg shadow-md shadow-sm shadow-inner shadow-outline)
 - Using Breakpoints To Add Responsive Behavior (sm:px-4 md:px-8 lg:px-12 xl:px-16)
+ Understanding & Using Pseudo Selectors (hover, focus, active, visited, disabled, first-child, last-child, odd-child, even-child, group-hover, group-focus, group-active, group-v)
+- Understanding & Using Pseudo Selectors (hover, focus, active, visited, disabled, first-child, last-child, odd-child, even-child, group-hover, group-focus, group-active, group-v)
