@@ -10,3 +10,4 @@
 - adjusting flow of elements in grid layout (grid-cols-5, grid-flow-row)
 - Adding Gap Between & Justifying Items ( gap-x-3, gap-y-5, justify-items-center)
 - Justify Individual Items (justify-self-center, justify-self-end)
+- Adding Padding & Margin To Elements (p-4, m-4, p-4 m-4, p-4 m-4 p-4 m-4)
