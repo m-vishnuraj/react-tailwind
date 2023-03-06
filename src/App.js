@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="bg-orange-400 grid grid-rows-2 grid-flow-col gap-3">
-      <div className="row-span-2 h-20 bg-red-400">1</div>
+    <div className="bg-orange-400 grid grid-cols-5 grid-flow-row  gap-3">
+      <div className="h-20 bg-red-400">1</div>
       <div className="h-20 bg-green-400">2</div>
       <div className="h-20 bg-blue-400">3</div>
       <div className="h-20 bg-purple-400">4</div>
