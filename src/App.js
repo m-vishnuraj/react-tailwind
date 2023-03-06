@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div className="bg-green-500 group">
-      <p className="group-hover:text-white">para 1</p>
-      <p>para 2</p>
+    <div >
+      <h1>Hello</h1>
+      <h2>hello</h2>
     </div>
   )
 }
