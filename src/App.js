@@ -1,8 +1,7 @@
 function App() {
   return (
     <div >
-      <button className="btn">click1</button>
-      <button className="btn">click1</button>
+      <p className="text-green-500">This is paragraph</p>
     </div>
   )
 }
