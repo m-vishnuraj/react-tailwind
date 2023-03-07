@@ -20,3 +20,4 @@
 - Understanding & Using Pseudo Selectors (hover, focus, active, visited, disabled, first-child, last-child, odd-child, even-child, group-hover, group-focus, group-active, group-v)
 - Layer & Apply Directives (@layer, @apply)
 - Code Reuse By Using Components (components, @layer components)
+- Understanding How Utility Classes Work In Tailwind( @layer utilities)
