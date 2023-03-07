@@ -1,8 +1,8 @@
 function App() {
   return (
     <div >
-      <h1>Hello</h1>
-      <h2>hello</h2>
+      <button className="btn">click1</button>
+      <button className="btn">click1</button>
     </div>
   )
 }
